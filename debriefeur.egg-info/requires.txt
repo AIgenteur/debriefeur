@@ -1,0 +1,12 @@
+litellm<2,>=1.55.0
+rich<15,>=14.0.0
+prompt_toolkit<4,>=3.0.50
+pydantic<3,>=2.10.0
+httpx<1,>=0.28.0
+python-dotenv<2,>=1.0.1
+pyyaml<7,>=6.0.2
+
+[dev]
+pytest<9,>=8.3.0
+pytest-asyncio<1,>=0.24.0
+ruff<1,>=0.8.0
