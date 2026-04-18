@@ -73,9 +73,9 @@ debriefeur status       # Check LLM connectivity
 ```
 pip install debriefeur
          ↓
-    debriefeur setup          →  ~/.debrief/.env
+    debriefeur setup          →  ~/.debriefeur/.env
          ↓
-    debrief                →  Interactive interview (terminal)
+    debriefeur                 →  Interactive interview (terminal)
          ↓
     debriefeur export <id>    →  ./output/.openclaw/soul.md, etc.
 ```
